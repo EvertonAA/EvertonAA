@@ -1,9 +1,8 @@
 
 - 👋 Olá, sou Everton 
-- 👀 Estou interessado em Aprender todos os dias...
-- 🌱 Atualmente estou começando a estudar Dev
-- 💞️ Casado/Pai/Crisão ✝
-- 📫 Como chegar até mim evertonaa829@gmail.com
+- 👀 Estou interessado em Aprender todos os dias
+- 💻 Ingressanco na área de Desenvolvimento
+- 📰 Estudando Front-End 
 
 <!-- -
 Evetop25/Evetop25 é um repositório ✨ especial ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
