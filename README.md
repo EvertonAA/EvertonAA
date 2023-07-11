@@ -30,7 +30,6 @@ Você pode clicar no link Visualizar para ver suas alterações.
 
 ###
 - [Contatos](https://wa.me/5511972303834?text=Ol%C3%A1%21+Vim+Atraves+do+Seu+Reposit%C3%B3rio%2C+Podemos+Conversar%3F)<br/><br/>
-- [Curriculo](everton-curriculo.png)<br/><br/>
 - [ Telegran- ](https://t.me/Evetop25)<br><br/>
 - [ Wattsapp ](https://contate.me/everton_alves)
 - [ Linkedin ](https://www.linkedin.com/in/everton-antunes-alves-02aa98132/)
