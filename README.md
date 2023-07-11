@@ -1,8 +1,8 @@
 
 - 👋 Olá, sou Everton 
 - 👀 Estou interessado em Aprender todos os dias
-- 💻 Ingressando na área de Desenvolvimento
-- 📰 Estudando Front-End 
+- 💻 Iniciando na área de Desenvolvimento Web
+- 📰 Contruindo Carreia no Front-End 
 
 <!-- -
 Evetop25/Evetop25 é um repositório ✨ especial ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
