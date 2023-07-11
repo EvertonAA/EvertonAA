@@ -1,7 +1,7 @@
 
 - 👋 Olá, sou Everton 
 - 👀 Estou interessado em Aprender todos os dias
-- 💻 Ingressanco na área de Desenvolvimento
+- 💻 Ingressando na área de Desenvolvimento
 - 📰 Estudando Front-End 
 
 <!-- -
