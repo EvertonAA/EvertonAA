@@ -1,6 +1,6 @@
 
 - 👋 Olá, sou Everton 
-- 👀 Estou interessado em Aprender todos os dias
+- 👀 Me esfoçando para Aprender todos os dias
 - 💻 Iniciando na área de Desenvolvimento Web
 - 📰 Contruindo Carreia no Front-End 
 
@@ -8,8 +8,8 @@
 Evetop25/Evetop25 é um repositório ✨ especial ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
 Você pode clicar no link Visualizar para ver suas alterações.
 - -->
-###  OLá! Eu Sou Everton Alves
-###  "Para mim, o GitHub é uma janela para o meu mundo de criação e colaboração, onde compartilho minhas habilidades em desenvolvimento de software e trabalho em conjunto com outros profissionais para criar soluções incríveis👍<br><br/>
+###  OLá, Bem vindo...
+###  Olá! Sou Everton Antunes Alves Batista, também conhecido como Everton Alves no mundo da programação. Sou um entusiasta de Front-End e estou sempre buscando aprender e aprimorar minhas habilidades nessa área. Este é o meu perfil do GitHub, onde compartilho projetos e contribuições relacionadas ao desenvolvimento web.👍<br><br/>
 
 
 
@@ -29,8 +29,7 @@ Você pode clicar no link Visualizar para ver suas alterações.
 </div><br/>
 
 ###
-- [Contatos](https://wa.me/5511972303834?text=Ol%C3%A1%21+Vim+Atraves+do+Seu+Reposit%C3%B3rio%2C+Podemos+Conversar%3F)<br/><br/>
-- [ Telegran- ](https://t.me/Evetop25)<br><br/>
+- [Instagran](https://www.instagram.com/evedev_oficial/)<br/><br/>
 - [ Wattsapp ](https://contate.me/everton_alves)
-- [ Linkedin ](https://www.linkedin.com/in/everton-antunes-alves-02aa98132/)
+- [ Linkedin ](https://www.linkedin.com/in/everton-antunes-alves-batista-02aa98132/)
 
