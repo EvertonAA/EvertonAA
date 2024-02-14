@@ -13,7 +13,7 @@ Você pode clicar no link Visualizar para ver suas alterações.
 
 
 
-[![ LInkedin ](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/everton-antunes-alves-02aa98132/)
+[![ LInkedin ](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/everton-antunes-alves-batista-02aa98132/)
 [![ Instagram ](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/evedev_oficial/)
 [![ Youtube ](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCvLmj_yLrd8-7ueAX12BoCA)<br/><br>
 
